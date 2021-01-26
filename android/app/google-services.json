@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524983797779",
+    "project_id": "mindgiphy",
+    "storage_bucket": "mindgiphy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524983797779:android:37de7e0aee336cda7f97e6",
+        "android_client_info": {
+          "package_name": "com.mindassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524983797779-726vkm3cgf9cnrb0vbfvbsj61bevuaie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindassignment",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "524983797779-0r6dtck7mkntefl3b92c7qb5vdnl66i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl7iI26YXlC7l6O0TQj4l4EyoM1n8S3ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524983797779-0r6dtck7mkntefl3b92c7qb5vdnl66i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
